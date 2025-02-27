@@ -83,3 +83,9 @@ https://api.vk.com/method/photos.createComment
 Убедится, что комментарий (например, «Привет из Postman») появился.
 
 
+![<img width="1680" alt="шаг1" src="https://github.com/user-attachments/assets/16920d42-71ab-4c38-9e85-cf84ef7036c1" />
+
+](images/screenshot.png)
+
+
+
