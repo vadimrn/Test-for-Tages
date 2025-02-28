@@ -15,12 +15,14 @@
 1. Сформировал ссылку (заменив YOUR_APP_ID на реальный App ID):
    
 https://oauth.vk.com/authorize?
-    client_id=YOUR_APP_ID
-    &display=page
-    &redirect_uri=https://oauth.vk.com/blank.html
-    &scope=photos,offline
-    &response_type=token
-    &v=5.131
+client_id=YOUR_APP_ID
+&display=page
+&redirect_uri=https://oauth.vk.com/blank.html
+&scope=photos,offline
+&response_type=token
+&v=5.131
+
+    
 2. Открыл эту ссылку в браузере и разрешил доступ к фотографиям.
 3. После авторизации в адресной строке увидел access_token=... и скопировал токен (до первого &).
    
